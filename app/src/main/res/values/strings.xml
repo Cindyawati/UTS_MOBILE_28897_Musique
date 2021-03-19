@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">28897_Musique</string>
+    <string name="AppTitle">MUSIC PLAYER</string>
+    <string name="profile">PROFILE</string>
+    <string name="SongList">Song List</string>
+
+    <!-- Login -->
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="LoginFailed">Login Failed</string>
+
+    <!-- Profile -->
+    <string name="ProfileBar">Profil Saya</string>
+    <string name="NIM">NIM : 00000028897</string>
+    <string name="Name">Nama : Cindy Aristawati</string>
+    <string name="Class">Kelas : BL</string>
+    <string name="Reference">Referensi</string>
+
+    <!-- Player -->
+    <string name="NowPlaying">Now Playing</string>
+    <string name="beforePlaySongTitle">This is song Name</string>
+    <string name="beforePlayArtistName">This is song Artist</string>
+    <string name="FileNameList">File Name</string>
+    <string name="StartDurationBeforePlay">1.28</string>
+    <string name="TotalDurationBeforePlay">4.28</string>
+
+    <!-- Pop up Menu -->
+    <string name="profilemenu">Profile</string>
+    <string name="logout">Log out</string>
+
+    <!-- Referensi Link -->
+    <string name="LoginFormReference">Login Form</string>
+    <string name="LinkLogin">
+        <a href = "https://www.tutorialspoint.com/android/android_login_screen.htm"
+            >https://www.tutorialspoint.com/android/android_login_screen.htm</a>
+    </string>
+
+    <string name="MusicPlayerReference">Music Player (Full Reference)</string>
+    <string name="LinkMusicPlayer">
+        <a href = "https://www.youtube.com/playlist?list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ"
+            >https://www.youtube.com/playlist?list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ</a>
+    </string>
+
+    <string name="ImageViewReference">Image View (Import + Rounded)</string>
+    <string name="LinkImageView">
+        <a href = "https://developer.android.com/codelabs/basic-android-kotlin-training-birthday-card-app-image#2"
+            >https://developer.android.com/codelabs/basic-android-kotlin-training-birthday-card-app-image#2</a>
+    </string>
+
+    <string name="LinkImageView2">
+        <a href = "https://stackoverflow.com/questions/2459916/how-to-make-an-imageview-with-rounded-corners/"
+            >https://stackoverflow.com/questions/2459916/how-to-make-an-imageview-with-rounded-corners/26471808</a>
+    </string>
+
+    <string name="PopUpReference">Pop up Menu Reference</string>
+    <string name="LinkPopup">
+        <a href = "https://www.javatpoint.com/android-popup-menu-example"
+            >https://www.javatpoint.com/android-popup-menu-example</a>
+    </string>
+
+    <string name="LinkPopup2">
+        <a href = "https://stackoverflow.com/questions/43324464/opening-new-activities-from-popup-menu-items"
+            >https://stackoverflow.com/questions/43324464/opening-new-activities-from-popup-menu-items</a>
+    </string>
+
+    <string name="DialogReference">Welcome Dialog Reference</string>
+    <string name="LinkDialog">
+        <a href = "https://www.youtube.com/watch?v=Bsm-BlXo2SI"
+            >https://www.youtube.com/watch?v=Bsm-BlXo2SI</a>
+    </string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
